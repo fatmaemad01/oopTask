@@ -1,7 +1,5 @@
 <?php
-namespace Student;
-
-include_once 'courses.php';
+namespace System\Student;
 
 class Student
 {

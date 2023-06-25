@@ -1,12 +1,12 @@
 <?php
 
-namespace Manager;
+namespace System\Manager;
 
-require_once 'loggable.php';
-include_once 'student.php';
+require '../autoload.php';
 
-use Loggable\Loggable;
-use Student\Student;
+
+use System\Loggable\Loggable;
+use System\Student\Student;
 
 
 

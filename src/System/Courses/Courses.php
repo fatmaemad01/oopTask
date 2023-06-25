@@ -1,9 +1,8 @@
 <?php
 
-namespace Courses;
-require_once 'loggable.php';
+namespace System\Courses;
 
-use Loggable\Loggable;
+use System\Loggable\Loggable;
 
 class Courses
 {

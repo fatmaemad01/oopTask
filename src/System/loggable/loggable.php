@@ -1,5 +1,5 @@
 <?php
-namespace Loggable;
+namespace System\Loggable;
 
 trait Loggable
 {

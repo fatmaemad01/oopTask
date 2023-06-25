@@ -1,0 +1,30 @@
+[25-06-23 22:08:02] Course php Created Successfully.
+[25-06-23 22:08:02] Course python Created Successfully.
+[25-06-23 22:08:02] Course java Created Successfully.
+[25-06-23 22:08:29] Course php Created Successfully.
+[25-06-23 22:08:29] Course python Created Successfully.
+[25-06-23 22:08:29] Course java Created Successfully.
+[25-06-23 22:08:29] Student Fatma Added Successfully.
+[25-06-23 22:08:29] Student Salma Added Successfully.
+[25-06-23 22:08:29] Student Ahmed Added Successfully.
+[25-06-23 22:08:29] This is info about Salma
+[25-06-23 22:08:29] Student Fatma Updated Successfully
+[25-06-23 22:08:29] Student Fatma Deleted Successfully
+[25-06-23 22:09:43] Course php Created Successfully.
+[25-06-23 22:09:43] Course python Created Successfully.
+[25-06-23 22:09:43] Course java Created Successfully.
+[25-06-23 22:09:43] Student Fatma Added Successfully.
+[25-06-23 22:09:43] Student Salma Added Successfully.
+[25-06-23 22:09:43] Student Ahmed Added Successfully.
+[25-06-23 22:09:43] This is info about Salma
+[25-06-23 22:09:43] Student Fatma Updated Successfully
+[25-06-23 22:09:43] Student Fatma Deleted Successfully
+[25-06-23 22:11:45] Course php Created Successfully.
+[25-06-23 22:11:45] Course python Created Successfully.
+[25-06-23 22:11:45] Course java Created Successfully.
+[25-06-23 22:11:45] Student Fatma Added Successfully.
+[25-06-23 22:11:45] Student Salma Added Successfully.
+[25-06-23 22:11:45] Student Ahmed Added Successfully.
+[25-06-23 22:11:45] This is info about Salma
+[25-06-23 22:11:45] Student Fatma Updated Successfully
+[25-06-23 22:11:45] Student Fatma Deleted Successfully

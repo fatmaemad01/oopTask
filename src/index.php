@@ -1,12 +1,12 @@
 <?php
 
-namespace Apply;
+require '../autoload.php';
 
-use Manager\Manager;
-use Courses\Courses;
-use Student\Student;
+use System\Manager\Manager;
+use System\Courses\Courses;
+use System\Student\Student;
 
-include_once 'manager.php';
+
 
 $course1 = new Courses('php');
 $course2 = new Courses('python');
@@ -22,9 +22,9 @@ $Manager = new Manager();
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <link rel="stylesheet" href="css/all.min.css" />
-  <link rel="stylesheet" href="css/task.css" />
+  <link rel="stylesheet" href="../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../css/all.min.css" />
+  <link rel="stylesheet" href="../css/task.css" />
   <title>Third Task</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -37,7 +37,7 @@ $Manager = new Manager();
 
     <div class="card m-3 ps-4 text-start">
       <div class="card-body">
-        <h6 class="card-title">Q1:Here I add 2 new student using add_student function.</h6>
+        <h6 class="card-title">Q1:Here I add new student using add_student function.</h6>
         <p class="card-text ">Answer: <br> <?php
                                             $Manager->add_student('Fatma', 'fatma@gmail.com', [$course1, $course2]);
                                             $Manager->add_student('Salma', 'salma@gmail.com', [$course1, $course3]);
